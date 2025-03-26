@@ -2,6 +2,10 @@
 
 Welcome to the Fetcher MCP GitHub repository! This repository hosts the MCP server for fetching web page content using the Playwright headless browser.
 
+<a href="https://glama.ai/mcp/servers/@everford/fetcher-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@everford/fetcher-mcp/badge" alt="Fetcher MCP server" />
+</a>
+
 ## 🧠 About
 
 The Fetcher MCP is designed to leverage artificial intelligence capabilities to efficiently retrieve web page content. By utilizing the Playwright headless browser, this server can navigate through web pages and extract desired information with ease.
