@@ -1,5 +1,7 @@
 # 🚀 Fetcher MCP - Playwright Headless Browser Server
 
+[![smithery badge](https://smithery.ai/badge/@everford/fetcher-mcp)](https://smithery.ai/server/@everford/fetcher-mcp)
+
 Welcome to the Fetcher MCP GitHub repository! This repository hosts the MCP server for fetching web page content using the Playwright headless browser.
 
 ## 🧠 About
